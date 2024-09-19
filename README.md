@@ -52,6 +52,8 @@ npm start: Runs the app in development mode.
 npm run build: Builds the app for production.
 npm test: Runs the test suite (if configured).
 npm run eject: Ejects the app (use with caution).
+```
+
 ![246649423-011837d1-0937-40cd-8ea2-aa83aefaf649](https://github.com/user-attachments/assets/d57c0ac2-437b-4208-b0b6-e040449f2bf5)
 
 
