@@ -2,6 +2,8 @@
 
 A modern and responsive real estate website built with React.js. This platform allows users to search for properties, view featured listings, and get in touch with real estate agents.
 Preview https://rentup1702.netlify.app/ 
+![Screenshot 2024-09-29 183133](https://github.com/user-attachments/assets/cd972e1d-816f-4140-9a19-00a154eb16bc)
+
 ## Table of Contents
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
