@@ -1,13 +1,13 @@
 import React from "react"
-import Header from "../common/header/Header"
+import Header from "../components/common/header/Header"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
-import Home from "../home/Home"
-import Footer from "../common/footer/Footer"
-import About from "../about/About"
-import Pricing from "../pricing/Pricing"
-import Blog from "../blog/Blog"
-import Services from "../services/Services"
-import Contact from "../contact/Contact"
+import Home from "../components/home/Home"
+import Footer from "../components/common/footer/Footer"
+import About from "../components/about/About"
+import Pricing from "../components/pricing/Pricing"
+import Blog from "../components/blog/Blog"
+import Services from "../components/services/Services"
+import Contact from "../components/contact/Contact"
 
 const Pages = () => {
   return (
